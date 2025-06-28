@@ -25,3 +25,4 @@ This project demonstrates how to deploy a **static HTML website** on an **AWS EC
 
 ---
 
+This is the project link: https://roadmap.sh/projects/ec2-instance
